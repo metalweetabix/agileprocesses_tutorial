@@ -4,3 +4,4 @@ Now another new line
 ANOTHER LINE
 Change added in dazzling_feature branch
 ANOTHER LINE AGAIN
+ADDING ANOTHER LINE
